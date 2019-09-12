@@ -83,14 +83,7 @@ author:
   name             : "Alexander Goncharov"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : Key: "\
-  Department of Mathematics \
-  10 Hillhouse Ave\
-  P.O. Box 208283\
-  Yale Univeristy\
-  New Haven, CT 06520\
-  USA\
-  "
+  location         : "Yale University"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DjEuU1oAAAAJ&hl=en"
