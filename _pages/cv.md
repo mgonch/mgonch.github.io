@@ -30,12 +30,12 @@ Professional Appointments
   
 Academic Honors
 ======
-European Mathematical Society Prize at the First European Congress of Mathematicians in Paris (1992).
-45-minute invited talk “Polylogarithms in arithmetic and geometry” at the International Congress of Mathematicians in Zurich (August 1994)
-50-minute invited talk “Multiple ζ-values, Galois groups and geometry of modular varieties” at the Third European Congress of Mathematicians in Barcelona (July 2000)
-Invited 30-minute talk “Reconstruction of objects from their projections in unknown directions,” at the 12th International Congress on Electron Microscopy in Seattle (1990).
-Talks at the Arbeitstagung, Bonn - 1997, 1999, 2011.
-Gold medal on 18-th International Mathematical Olympiad (1976).
+European Mathematical Society Prize at the First European Congress of Mathematicians in Paris (1992).  <br /> 
+45-minute invited talk “Polylogarithms in arithmetic and geometry” at the International Congress of Mathematicians in Zurich (August 1994)  <br /> 
+50-minute invited talk “Multiple ζ-values, Galois groups and geometry of modular varieties” at the Third European Congress of Mathematicians in Barcelona (July 2000)  <br /> 
+Invited 30-minute talk “Reconstruction of objects from their projections in unknown directions,” at the 12th International Congress on Electron Microscopy in Seattle (1990).  <br /> 
+Talks at the Arbeitstagung, Bonn - 1997, 1999, 2011.  <br /> 
+Gold medal on 18-th International Mathematical Olympiad (1976).  <br /> 
 
 Publications
 ======
