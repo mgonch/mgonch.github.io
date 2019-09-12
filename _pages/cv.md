@@ -28,14 +28,14 @@ Professional Appointments
 * Harvard Prize Fellow, Harvard University (Fall 1991)
 * Researcher, USSR Academy of Sciences, Moscow (1985 - 1992)
   
-Skills
+Academic Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+European Mathematical Society Prize at the First European Congress of Mathematicians in Paris (1992).
+45-minute invited talk “Polylogarithms in arithmetic and geometry” at the International Congress of Mathematicians in Zurich (August 1994)
+50-minute invited talk “Multiple ζ-values, Galois groups and geometry of modular varieties” at the Third European Congress of Mathematicians in Barcelona (July 2000)
+Invited 30-minute talk “Reconstruction of objects from their projections in unknown directions,” at the 12th International Congress on Electron Microscopy in Seattle (1990).
+Talks at the Arbeitstagung, Bonn - 1997, 1999, 2011.
+Gold medal on 18-th International Mathematical Olympiad (1976).
 
 Publications
 ======
