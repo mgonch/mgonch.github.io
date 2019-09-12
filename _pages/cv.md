@@ -54,11 +54,9 @@ Semester on Scattering Amplitudes, Simons Center on Geometry and Physics, Fall 2
 </ol>
 
 
-Publications
+Research Grant
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+NSF grant DMS-1059129. 2010-2013. NSF grant DMS-13
   
 Talks
 ======
