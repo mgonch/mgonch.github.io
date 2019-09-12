@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexander Goncharov"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
