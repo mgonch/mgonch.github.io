@@ -46,8 +46,12 @@ Service
 <li>Member of the Graduate Programme revision Committee, Fall 2013.</li>
 <li>In charge of the Arithmetic Algebraic Geometry seminar.</li>
 </ol>
-
 <em>To the Profession</em>
+<ol>
+<li>An editor of the Journal of Noncommutative Geometry.</li>
+<li>One of the organisers: <br />  
+Semester on Scattering Amplitudes, Simons Center on Geometry and Physics, Fall 2013.</li>
+</ol>
 
 
 Publications
