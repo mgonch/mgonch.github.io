@@ -13,7 +13,7 @@ Education
 ======
 * M.S. (Mathematics), Moscow State University, 1982
 * Ph. D. (Mathematics), Moscow and Institute of Mathematics, Novosibirsk, 1987;
-  Scientific adviser: I.M.Gelfand
+  Scientific advisor: I.M.Gelfand
 
 Work experience
 ======
