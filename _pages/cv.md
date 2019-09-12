@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. (Mathematics), Moscow State University, 1982
+* Ph. D. (Mathematics), Moscow and Institute of Mathematics, Novosibirsk, 1987;
+  Scientific adviser: I.M.Gelfand
 
 Work experience
 ======
