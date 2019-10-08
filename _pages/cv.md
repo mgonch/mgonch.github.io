@@ -17,10 +17,10 @@ Education
 Professional Appointments
 ======
 * Professor of Mathematics, Yale University (July 2010 – )
-*Research Professor (MSRI, Fall 2019)
-*Holder of the Gretchen and Barry Mazur Chair at IHES (January 2019–)
-*Member, Institute for Advanced Studies, Princeton, Fall 2017.
-*Distinguished Visiting Research Chair at Perimeter Institute (2014-2016)
+* Research Professor (MSRI, Fall 2019)
+* Holder of the Gretchen and Barry Mazur Chair at IHES (January 2019–)
+* Member, Institute for Advanced Studies, Princeton, Fall 2017.
+* Distinguished Visiting Research Chair at Perimeter Institute (2014-2016)
 * Professor of Mathematics, Brown University (Fall 1999 - June 2010)
 * Senior Member, MSRI (Fall 2001)
 * Associate Professor of Mathematics, Brown University (1998 - 1999)
