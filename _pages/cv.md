@@ -19,7 +19,7 @@ Professional Appointments
 * Professor of Mathematics, Yale University (July 2010 – )
 * Research Professor (MSRI, Fall 2019)
 * Holder of the Gretchen and Barry Mazur Chair at IHES (January 2019–)
-* Member, Institute for Advanced Studies, Princeton, Fall 2017.
+* Member, Institute for Advanced Studies, Princeton, Fall 2017
 * Distinguished Visiting Research Chair at Perimeter Institute (2014-2016)
 * Professor of Mathematics, Brown University (Fall 1999 - June 2010)
 * Senior Member, MSRI (Fall 2001)
@@ -45,22 +45,22 @@ Service
 ======
 <em>To the University</em>
 <ol>
-<li>DGS at the Math Department, Fall 2013.</li>
-<li> PhD adviser of graduate students D. Alegretti, L. Shen, D. Wang, V. Dimitrov.</li>
-<li>Member of the Graduate Programme revision Committee, Fall 2013.</li>
+<li>PhD adviser of graduate students A. Kislinsky, N. Malkin, G. Zhu.</li>
+<li>Director of Graduate studies: Fall 2018.</li>
 <li>In charge of the Arithmetic Algebraic Geometry seminar.</li>
 </ol>
 <em>To the Profession</em>
 <ol>
 <li>An editor of the Journal of Noncommutative Geometry.</li>
-<li>One of the organisers: <br />  
-Semester on Scattering Amplitudes, Simons Center on Geometry and Physics, Fall 2013.</li>
+<li>An editor of the Selecta Mathematicae journal.</li>
+<li>One of the editors of the special volume of Advances in Math dedicated to D. Kazhdan.</li>
+<li>One of the editors of the special volume of Selecta Mathematicae dedicated to A. Beilinson.</li>
 </ol>
 
 
 Research Grant
 ======
-NSF grant DMS-1059129. 2010-2013. NSF grant DMS-13
+NSF grants DMS-1564385, 2016-2019 and DMS-1900743, 2019-2021
   
 Talks
 ======
@@ -74,6 +74,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
