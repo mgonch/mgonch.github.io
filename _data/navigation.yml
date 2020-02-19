@@ -6,11 +6,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
+
+  - title: "arXiv"
+    url: "https://arxiv.org/search/?searchtype=author&query=Goncharov%2C+A+B&abstracts=show&size=100&order=-announced_date_first"
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
