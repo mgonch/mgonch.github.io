@@ -84,6 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Professor of Mathematics"
   location         : "Yale University"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Goncharov%2C+A+B&abstracts=show&size=100&order=-announced_date_first"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DjEuU1oAAAAJ&hl=en"
