@@ -1,7 +1,7 @@
 ---
 title: "Geometry of configurations, polylogarithms and motivic cohomology"
 collection: publications
-permalink: https://github.com/mgonch/mgonch.github.io/raw/master/files/Geometry%20of%20config.pdf
+permalink: https://mgonch.github.io/files/Geometry%20of%20config.pdf
 paperurl: 'https://arxiv.org/pdf/1803.08585.pdf'
 citation: 'Goncharov, Alexander. (1991). &quot;Geometry of configurations, polylogarthims and motivic cohomology.&quot; <i>Published in Advances Math (1995)</i>. 1(1).'
 ---
